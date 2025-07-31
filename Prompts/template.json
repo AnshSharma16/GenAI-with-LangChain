@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length",
+        "style",
+        "topic"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Generate a {length} summary of the research paper on {topic} in a {style} style.",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
